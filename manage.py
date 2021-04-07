@@ -24,7 +24,7 @@ class HockeyClubManage:
 
     def search_by_type(self, type: Type):
         new_goods = []
-        for HockeyGoods in self.goods:
-            if HockeyGoods.type == type:
+        for hockeyGoods in self.goods:
+            if hockeyGoods.type == type:
                 new_goods.append(HockeyGoods)
         return new_goods
