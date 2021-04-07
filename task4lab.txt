@@ -1,0 +1,5 @@
+Lab №4
+
+-Tests performed in the 4th work must be added to the code of the 3rd work.
+-Test code coverage should be 70%
+-The code must meet the requirements of PEP8
